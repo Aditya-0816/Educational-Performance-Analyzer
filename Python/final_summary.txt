@@ -1,1 +1,13 @@
+=== Summary ===
+Logistic Regression Accuracy: [value]  | ROC-AUC: [value]
+Decision Tree Accuracy: [value]
+Random Forest Accuracy: [value]
+Linear Regression RMSE: [value]  MAE: [value]
 
+Preprocessing: Missing value imputation, one-hot encoding, normalization of numeric features
+Feature Engineering: Attendance ratio, total study hours, average previous grade
+Exploratory Data Analysis: Correlation heatmaps, scatterplots, ANOVA, Pearson correlation
+Model Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC, RMSE, MAE
+Random Forest Tuning: Cross-validation with hyperparameter grid search for improved accuracy
+Visualizations: ROC curves, confusion matrices, feature importance charts
+Insights: Attendance, study habits, parental education, and past failures identified as key predictors
