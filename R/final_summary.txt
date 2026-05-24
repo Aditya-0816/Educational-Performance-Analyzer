@@ -1,1 +1,11 @@
+=== Summary ===
+Logistic Accuracy: [value]  | ROC-AUC: [value]
+Decision Tree Accuracy: [value]
+Random Forest Accuracy: [value]
+Linear Regression RMSE: [value]  MAE: [value]
 
+Preprocessing: Encoding + Normalization applied to categorical & numeric features
+Feature Engineering: Added attendance_ratio, total_study_hours, avg_prev_grade
+Statistical Tests: ANOVA (studytime vs G3), Pearson correlation (absences vs G3)
+Random Forest Tuning: Cross-validation with mtry grid search for better accuracy
+Descriptive Stats: Generated summary table for appendices (attendance, studytime, grades)
