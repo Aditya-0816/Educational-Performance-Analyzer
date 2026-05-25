@@ -58,10 +58,11 @@ jupyter notebook python/notebook.ipynb
 
 ---
 
-# Python
-👉 Run directly on Colab: [Python Notebook](https://colab.research.google.com/drive/193YFgj1a1ed65ZKMtBWZV-YXjOvQI4wB?usp=sharing)
+## Python
+Open `python/notebook.ipynb` in your preferred environment (IDLE, Jupyter Notebook, Google Colab, VS Code, or PyCharm) and run all cells sequentially.
+👉 Run directly on Colab: [Python Notebook](https://colab.research.google.com/drive/193YFgj1a1ed65ZKMtBWZV-YXjOvQI4wB?usp=sharing)  
 
-# R
+## R
 Open r/notebook.Rmd in RStudio and knit to HTML/PDF.
 👉 Run directly on Colab: [R Notebook](https://colab.research.google.com/drive/1Lb75s6xnLme8_6aOfiNaTEXr95v-sauW?usp=sharing)
 
