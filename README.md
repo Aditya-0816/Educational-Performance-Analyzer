@@ -29,6 +29,23 @@ educational-performance-analyzer/
 
 ---
 
+## 📂 Repository Structure
+educational-performance-analyzer/
+│
+├── README.md
+├── python/
+│   ├── notebook.ipynb
+│   ├── requirements.txt
+│   ├── final_summary.txt
+│   └── figures/   # saved plots (ROC curves, confusion matrices, feature importance)
+│
+└── r/
+    ├── notebook.Rmd
+    ├── final_summary.txt
+    └── figures/   # saved plots (attendance vs grades, studytime vs grades)
+
+---
+
 ## ⚙️ Methodology
 1. **Data Preprocessing** → missing value imputation, one‑hot encoding, normalization  
 2. **Feature Engineering** → attendance ratio, total study hours, avg previous grade  
