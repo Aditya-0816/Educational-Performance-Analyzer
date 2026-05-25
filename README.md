@@ -13,6 +13,7 @@ The aim is to identify key predictors of academic success and build machine lear
 ---
 
 ## 📂 Repository Structure
+```bash
 educational-performance-analyzer/
 │
 ├── README.md
@@ -26,23 +27,7 @@ educational-performance-analyzer/
     ├── notebook.Rmd
     ├── final_summary.txt
     └── figures/   # saved plots (attendance vs grades, studytime vs grades)
-
----
-
-## 📂 Repository Structure
-educational-performance-analyzer/
-│
-├── README.md
-├── python/
-│   ├── notebook.ipynb
-│   ├── requirements.txt
-│   ├── final_summary.txt
-│   └── figures/   # saved plots (ROC curves, confusion matrices, feature importance)
-│
-└── r/
-    ├── notebook.Rmd
-    ├── final_summary.txt
-    └── figures/   # saved plots (attendance vs grades, studytime vs grades)
+```
 
 ---
 
