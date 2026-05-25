@@ -13,7 +13,6 @@ The aim is to identify key predictors of academic success and build machine lear
 ---
 
 ## 📂 Repository Structure
-```
 educational-performance-analyzer/
 │
 ├── README.md
@@ -27,7 +26,6 @@ educational-performance-analyzer/
     ├── notebook.Rmd
     ├── final_summary.txt
     └── figures/   # saved plots (attendance vs grades, studytime vs grades)
-```
 
 ---
 
@@ -56,28 +54,34 @@ educational-performance-analyzer/
 ```bash
 pip install -r python/requirements.txt
 jupyter notebook python/notebook.ipynb
-```
 
-### R
-Open `r/notebook.Rmd` in RStudio and knit to HTML/PDF.
+👉 Run directly on Colab: Python Notebook
 
----
+R
+Open r/notebook.Rmd in RStudio and knit to HTML/PDF.
+👉 Run directly on Colab: R Notebook
 
-## 📈 Figures
-Plots are saved in the `figures/` folders under each language.  
+📈 Figures
+Plots are saved in the figures/ folders under each language.
 Examples include:
-- Attendance vs Grades scatterplot  
-- Studytime vs Grades boxplot  
-- ROC curve for Random Forest  
-- Confusion matrix heatmap  
-- Feature importance chart  
+
+- Attendance vs Grades scatterplot
+
+- Studytime vs Grades boxplot
+
+- ROC curve for Random Forest
+
+- Confusion matrix heatmap
+
+- Feature importance chart
 
 ---
 
-## 🎯 Insights
-- Attendance strongly correlates with final grades.  
-- Students with higher studytime and parental education perform better.  
-- Past failures negatively impact performance.  
+🎯 Insights
+Attendance strongly correlates with final grades.
+
+- Students with higher studytime and parental education perform better.
+
+- Past failures negatively impact performance.
+
 - Data‑driven early warning systems can help educators intervene sooner.
-
----
