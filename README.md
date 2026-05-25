@@ -85,7 +85,7 @@ Examples include:
 ---
 
 ## 🎯 Insights
-Attendance strongly correlates with final grades.
+- Attendance strongly correlates with final grades.
 
 - Students with higher studytime and parental education perform better.
 
