@@ -58,15 +58,16 @@ jupyter notebook python/notebook.ipynb
 
 ---
 
-👉 Run directly on Colab: Python Notebook
+# Python
+👉 Run directly on Colab: [Python Notebook](https://colab.research.google.com/drive/193YFgj1a1ed65ZKMtBWZV-YXjOvQI4wB?usp=sharing)
 
-R
+# R
 Open r/notebook.Rmd in RStudio and knit to HTML/PDF.
-👉 Run directly on Colab: R Notebook
+👉 Run directly on Colab: [R Notebook](https://colab.research.google.com/drive/1Lb75s6xnLme8_6aOfiNaTEXr95v-sauW?usp=sharing)
 
 ---
 
-📈 Figures
+## 📈 Figures
 Plots are saved in the figures/ folders under each language.
 Examples include:
 
@@ -82,7 +83,7 @@ Examples include:
 
 ---
 
-🎯 Insights
+## 🎯 Insights
 Attendance strongly correlates with final grades.
 
 - Students with higher studytime and parental education perform better.
