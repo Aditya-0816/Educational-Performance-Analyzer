@@ -54,12 +54,17 @@ educational-performance-analyzer/
 ```bash
 pip install -r python/requirements.txt
 jupyter notebook python/notebook.ipynb
+```
+
+---
 
 👉 Run directly on Colab: Python Notebook
 
 R
 Open r/notebook.Rmd in RStudio and knit to HTML/PDF.
 👉 Run directly on Colab: R Notebook
+
+---
 
 📈 Figures
 Plots are saved in the figures/ folders under each language.
